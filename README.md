@@ -63,7 +63,7 @@
         <div class="pagePreview">
             <p class="title">THỨ BẠN CẦN Ở ĐÂY</p>
             <div class="preVid">
-                <img src="https://i.ibb.co/8dGJs8h/image.png" alt="Pic-Preview">
+                <img src="https://i.ibb.co/8dGJs8h/image.png">
             </div>
             <div class="prePics"></div>
             <div class="pageDown">
